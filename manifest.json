@@ -1,0 +1,40 @@
+{
+  "_onnxruntime-web-l0sNRNKZ.js": {
+    "file": "assets/onnxruntime-web-l0sNRNKZ.js",
+    "name": "onnxruntime-web"
+  },
+  "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm": {
+    "file": "assets/ort-wasm-simd-threaded.asyncify-BJtBjfiH.wasm",
+    "src": "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.asyncify.wasm"
+  },
+  "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.jsep.wasm": {
+    "file": "assets/ort-wasm-simd-threaded.jsep-BGTZ4Y7F.wasm",
+    "src": "node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.jsep.wasm"
+  },
+  "public/fonts/Boring-Sans-A-Heavy-trial.ttf": {
+    "file": "assets/Boring-Sans-A-Heavy-trial-X7Z6hVXh.ttf",
+    "src": "public/fonts/Boring-Sans-A-Heavy-trial.ttf"
+  },
+  "public/fonts/Chewy-Regular.ttf": {
+    "file": "assets/Chewy-Regular-DY_Ehv2E.ttf",
+    "src": "public/fonts/Chewy-Regular.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CUAPAV-S.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/main.jsx": {
+    "file": "assets/main-C8xramQc.js",
+    "name": "main",
+    "src": "resources/js/main.jsx",
+    "isEntry": true,
+    "assets": [
+      "assets/ort-wasm-simd-threaded.asyncify-BJtBjfiH.wasm"
+    ]
+  }
+}
