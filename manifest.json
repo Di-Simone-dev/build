@@ -20,7 +20,7 @@
     "src": "public/fonts/Chewy-Regular.ttf"
   },
   "resources/css/app.css": {
-    "file": "assets/app-CAdxIn5h.css",
+    "file": "assets/app-COUs2YMb.css",
     "src": "resources/css/app.css",
     "isEntry": true,
     "name": "app",
@@ -29,7 +29,7 @@
     ]
   },
   "resources/js/main.jsx": {
-    "file": "assets/main-DDI9lYgP.js",
+    "file": "assets/main-D1umFvsb.js",
     "name": "main",
     "src": "resources/js/main.jsx",
     "isEntry": true,
